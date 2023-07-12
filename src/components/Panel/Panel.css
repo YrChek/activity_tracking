@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  align-items: flex-end;
+}
+.form-group {
+  display: block;
+}
+.input {
+  width: 250px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.btn {
+  width: 80px;
+}
+
+.input, .btn {
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 18px;
+}
